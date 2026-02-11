@@ -1,0 +1,7 @@
+{
+  "name": "Contextuele reisgids",
+  "description": "Een contextuele reisgids die historische hoofdstukken koppelt aan uw locatie in Japan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
